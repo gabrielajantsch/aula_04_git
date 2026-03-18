@@ -1,0 +1,8 @@
+{
+  "name": "aula_04_git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabrielajantsch/aula_04_git.git",
+  "author": "Gabriela <gabriela.jantsch@gmail.com>",
+  "license": "MIT"
+}
